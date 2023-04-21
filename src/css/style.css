@@ -8,6 +8,7 @@ body{
                          "hero hero hero hero"
                          "about about about about"
                          "services services services services"
+                         "projects projects projects projects"
                          "footer footer footer footer"; 
                         
     grid-template-columns: repeat(4,1fr); 
